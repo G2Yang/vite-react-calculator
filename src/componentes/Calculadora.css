@@ -1,0 +1,7 @@
+.calculadora {
+  border: 1px solid black;
+  background-image: url('./charmander.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
